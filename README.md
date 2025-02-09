@@ -1,0 +1,1 @@
+- Simple Auth Logic with Register, Login, E-mail verification, Forgot password, Logout
